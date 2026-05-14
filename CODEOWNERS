@@ -2,5 +2,6 @@
 # These users will be automatically requested for review on all pull requests
 # Note: forked for personal learning - removed upstream reviewers since this is my personal fork
 # Only requiring my own review since no one else works on this fork
+# Last updated: experimenting with Confluence and Jira integrations
 
 * @pnguyen-personal
